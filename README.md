@@ -22,8 +22,8 @@ Al-Nahrain University — Baghdad, Iraq (Expected 2025)
 - 🌱 Learning advanced backend and cloud technologies  
 - 🤝 Collaborating on open-source projects
 
+![Uploading ImageToStl.com_Typing.fbx.gif…]()
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engbaqer&layout=compact&theme=tokyonight)
 
 
 
