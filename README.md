@@ -17,7 +17,7 @@ I enjoy turning ideas into functional solutions and continuously learning new te
 
 ## 🎓 Education
 **B.Sc. in Computer Engineering**  
-Al-Nahrain University — Baghdad, Iraq (Expected 2025)
+Al-Nahrain University — Baghdad, Iraq 
 
 ## 🔥 Currently
 - 🛠 Building modern web applications  
