@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Baqer 👋
 
-<!--
-**engbaqer/engbaqer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Software Developer passionate about building modern, scalable, and efficient applications.  
+I enjoy turning ideas into functional solutions and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+**Frontend:** React.js • Next.js • HTML • CSS • JavaScript • TailwindCSS • Bootstrap • shadcn • React Router  
+**Backend & Databases:** Node.js • Express.js • MongoDB • MySQL  
+**Technologies:** API Development • WebSocket (Socket.IO)  
+**Programming Languages:** Python • C++ • Java • JavaScript  
+**Tools:** VS Code • Postman • Git • GitHub  
+**Soft Skills:** Teamwork • Problem-Solving • Communication • Time Management • Adaptability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+**B.Sc. in Computer Engineering**  
+Al-Nahrain University — Baghdad, Iraq (Expected 2025)
+
+## 🔥 Currently
+- 🛠 Building modern web applications  
+- 🌱 Learning advanced backend and cloud technologies  
+- 🤝 Collaborating on open-source projects
+
