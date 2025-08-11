@@ -27,5 +27,5 @@ Al-Nahrain University — Baghdad, Iraq (Expected 2025)
 
 
 
-![3D Graph](![FabConvert com_689a4ae11447156c3f6d95eb+(1)](https://github.com/user-attachments/assets/b2794ee4-9c03-4d2b-a207-e1a84b8b4e2e)
-)
+(![FabConvert com_689a4ae11447156c3f6d95eb+(1)](https://github.com/user-attachments/assets/b2794ee4-9c03-4d2b-a207-e1a84b8b4e2e)
+
