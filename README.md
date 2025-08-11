@@ -1,4 +1,5 @@
 # Hi there, I'm Baqer 👋
+<img src="avatar.gif" alt="Baqer Waving Avatar" width="200" align="right"/>
 
 ## 🚀 About Me
 Software Developer passionate about building modern, scalable, and efficient applications.  
@@ -21,3 +22,13 @@ Al-Nahrain University — Baghdad, Iraq (Expected 2025)
 - 🌱 Learning advanced backend and cloud technologies  
 - 🤝 Collaborating on open-source projects
 
+---
+
+## 📊 GitHub Stats
+![Baqer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=engbaqer&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engbaqer&layout=compact&theme=tokyonight)
+
+---
+
+## 🖼 3D Contribution Graph
+![3D Graph](profile-3d-contrib/profile-night-rainbow.svg)
