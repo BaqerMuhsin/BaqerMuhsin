@@ -22,13 +22,9 @@ Al-Nahrain University — Baghdad, Iraq (Expected 2025)
 - 🌱 Learning advanced backend and cloud technologies  
 - 🤝 Collaborating on open-source projects
 
----
 
-## 📊 GitHub Stats
-![Baqer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=engbaqer&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engbaqer&layout=compact&theme=tokyonight)
 
----
 
-## 🖼 3D Contribution Graph
-![3D Graph](profile-3d-contrib/profile-night-rainbow.svg)
+
+![3D Graph](https://models.readyplayer.me/689a4ae11447156c3f6d95eb.glb)
