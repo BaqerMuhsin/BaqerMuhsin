@@ -21,3 +21,4 @@ Al-Nahrain University — Baghdad, Iraq (Expected 2025)
 - 🌱 Learning advanced backend and cloud technologies  
 - 🤝 Collaborating on open-source projects
 
+https://models.readyplayer.me/689a4ae11447156c3f6d95eb.glb
