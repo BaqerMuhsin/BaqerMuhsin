@@ -1,5 +1,5 @@
 # Hi there, I'm Baqer 👋
-<img src="avatar.gif" alt="Baqer Waving Avatar" width="200" align="right"/>
+
 
 ## 🚀 About Me
 Software Developer passionate about building modern, scalable, and efficient applications.  
