@@ -22,7 +22,8 @@ Al-Nahrain University — Baghdad, Iraq (Expected 2025)
 - 🌱 Learning advanced backend and cloud technologies  
 - 🤝 Collaborating on open-source projects
 
-![Uploading ImageToStl.com_Typing.fbx.gif…]()
+![ImageToStl com_Typing fbx](https://github.com/user-attachments/assets/94c149b8-0992-402c-b300-d1c254e6e463)
+
 
 
 
