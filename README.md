@@ -5,7 +5,6 @@
 Software Developer passionate about building modern, scalable, and efficient applications.  
 I enjoy turning ideas into functional solutions and continuously learning new technologies.
 
-![ImageToStl com_Typing fbx](https://github.com/user-attachments/assets/94c149b8-0992-402c-b300-d1c254e6e463)
 ## 💻 Tech Stack
 **Frontend:** React.js • Next.js • HTML • CSS • JavaScript • TailwindCSS • Bootstrap • shadcn • React Router  
 **Backend & Databases:** Node.js • Express.js • MongoDB • MySQL    
