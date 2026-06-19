@@ -1,7 +1,10 @@
 ### GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baqer_alkaabi&show_icons=true&theme=dark)
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaqerMuhsin&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baqer_alkaabi&layout=compact&theme=dark)
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaqerMuhsin&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=baqer_alkaabi&theme=dark)
+<!-- Contribution Streak Card -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=BaqerMuhsin&theme=dark)
