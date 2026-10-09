@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 501" width="880" height="501" role="img" aria-label="Baqer terminal: type baqer -h for help" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,Liberation Mono,monospace" font-size="14">
-<rect width="880" height="501" rx="10" fill="#c9cdf2"/>
-<rect x="12" y="12" width="856" height="477" rx="6" fill="#000"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 324" width="880" height="324" role="img" aria-label="Baqer terminal: general information" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,Liberation Mono,monospace" font-size="14">
+<rect width="880" height="324" rx="10" fill="#c9cdf2"/>
+<rect x="12" y="12" width="856" height="300" rx="6" fill="#000"/>
 <g><set attributeName="opacity" to="0" begin="2.4s" fill="freeze"/>
 <g opacity="0"><set attributeName="opacity" to="1" begin="0.00s" fill="freeze"/>
 <text x="34.0" y="48" fill="#c8c8c8" xml:space="preserve">Booting up</text>
@@ -98,26 +98,22 @@
 <rect x="385" y="100" width="13" height="11" fill="#64ffda"/>
 <rect x="346" y="112" width="13" height="11" fill="#64ffda"/>
 <rect x="398" y="112" width="13" height="11" fill="#64ffda"/>
-<text x="34.0" y="152" fill="#c8c8c8" xml:space="preserve">This terminal belongs to Baqer, Software Developer — voted best developer</text>
-<text x="34.0" y="173" fill="#c8c8c8" xml:space="preserve">in the world by a jury of exactly one.</text>
-<text x="34.0" y="194" fill="#c8c8c8" xml:space="preserve"></text>
-<text x="34.0" y="215" fill="#c8c8c8" xml:space="preserve">Use it responsibly. It cannot hack anything, but it can tell you a lot about me.</text>
-<text x="34.0" y="236" fill="#c8c8c8" xml:space="preserve"></text>
-<text x="34.0" y="257" fill="#64ffda" xml:space="preserve">&gt;</text>
-<clipPath id="type"><rect x="50.9" y="242" width="0" height="20"><animate attributeName="width" values="0.0;8.4;16.9;25.3;33.7;42.1;50.6;59.0;67.4" calcMode="discrete" begin="3.6s" dur="1.17s" fill="freeze"/></rect></clipPath>
-<text x="50.9" y="257" fill="#ffffff" xml:space="preserve" clip-path="url(#type)">baqer -h</text>
-<rect x="50.9" y="244" width="8" height="16" fill="#64ffda"><animate attributeName="x" values="50.9;59.3;67.7;76.2;84.6;93.0;101.4;109.9;118.3" calcMode="discrete" begin="3.6s" dur="1.17s" fill="freeze"/><set attributeName="opacity" to="0" begin="5.12s" fill="freeze"/></rect>
-<g opacity="0"><set attributeName="opacity" to="1" begin="5.12s" fill="freeze"/>
-<text x="34.0" y="278" fill="#c8c8c8" xml:space="preserve">Usage: baqer [option]</text>
-<text x="34.0" y="299" fill="#c8c8c8" xml:space="preserve"></text>
-<text x="34.0" y="320" fill="#c8c8c8" xml:space="preserve">Options:</text>
-<text x="34.0" y="341" fill="#c8c8c8" xml:space="preserve">  -h, --help       show this help message</text>
-<text x="34.0" y="362" fill="#c8c8c8" xml:space="preserve">  -a, --about      who I am</text>
-<text x="34.0" y="383" fill="#c8c8c8" xml:space="preserve">  -s, --skills     what I work with</text>
-<text x="34.0" y="404" fill="#c8c8c8" xml:space="preserve">  -p, --projects   things I've built</text>
-<text x="34.0" y="425" fill="#c8c8c8" xml:space="preserve">  -c, --contact    how to reach me</text>
-<text x="34.0" y="446" fill="#c8c8c8" xml:space="preserve"></text>
-<text x="34.0" y="467" fill="#64ffda" xml:space="preserve">&gt;</text>
-<rect x="50.9" y="454" width="8" height="16" fill="#64ffda"><animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1.1s" repeatCount="indefinite"/></rect>
+<text x="34.0" y="152" fill="#64ffda" xml:space="preserve">&gt;</text>
+<clipPath id="type"><rect x="50.9" y="137" width="0" height="20"><animate attributeName="width" values="0.0;8.4;16.9;25.3;33.7;42.1;50.6" calcMode="discrete" begin="3.6s" dur="0.91s" fill="freeze"/></rect></clipPath>
+<text x="50.9" y="152" fill="#ffffff" xml:space="preserve" clip-path="url(#type)">whoami</text>
+<rect x="50.9" y="139" width="8" height="16" fill="#64ffda"><animate attributeName="x" values="50.9;59.3;67.7;76.2;84.6;93.0;101.4" calcMode="discrete" begin="3.6s" dur="0.91s" fill="freeze"/><set attributeName="opacity" to="0" begin="4.86s" fill="freeze"/></rect>
+<g opacity="0"><set attributeName="opacity" to="1" begin="4.86s" fill="freeze"/>
+<text x="34.0" y="179" fill="#64ffda" xml:space="preserve">Name</text>
+<text x="118.3" y="179" fill="#ffffff" xml:space="preserve">Baqer Al-Kaabi</text>
+<text x="34.0" y="200" fill="#64ffda" xml:space="preserve">Role</text>
+<text x="118.3" y="200" fill="#ffffff" xml:space="preserve">Software Developer</text>
+<text x="34.0" y="221" fill="#64ffda" xml:space="preserve">Stack</text>
+<text x="118.3" y="221" fill="#ffffff" xml:space="preserve">JavaScript · Python · Dart</text>
+<text x="34.0" y="242" fill="#64ffda" xml:space="preserve">GitHub</text>
+<text x="118.3" y="242" fill="#ffffff" xml:space="preserve">github.com/BaqerMuhsin</text>
+<text x="34.0" y="263" fill="#64ffda" xml:space="preserve">Email</text>
+<text x="118.3" y="263" fill="#ffffff" xml:space="preserve">alkbaqer@gmail.com</text>
+<text x="34.0" y="290" fill="#64ffda" xml:space="preserve">&gt;</text>
+<rect x="50.9" y="277" width="8" height="16" fill="#64ffda"><animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1.1s" repeatCount="indefinite"/></rect>
 </g></g>
 </svg>
