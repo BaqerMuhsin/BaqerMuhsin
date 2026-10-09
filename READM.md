@@ -1,7 +1,5 @@
-<!-- <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,flutter,express,prisma,postgres,git&theme=dark" />
-  </a>
-</div>
+<img src="terminal.svg" alt="Baqer's terminal — type 'baqer -h' for help" width="100%">
+Hi, I'm Baqer 👋
+Software Developer. I build mobile and web apps.
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BaqerMuhsin&theme=react-dark) -->
+📫 alkbaqer@gmail.com
